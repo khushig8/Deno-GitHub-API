@@ -2,7 +2,7 @@
 
 A minimal backend API built with [Deno](https://deno.com/) + [Oak](https://deno.land/x/oak) that fetches **public GitHub user data** using the GitHub REST API.
 
-🚀 Live Demo: https://khushigarg-deno-github-44.deno.dev/?username=username
+🚀 Live Demo: https://khushigarg-deno-github-44.deno.dev/
 
 ---
 
